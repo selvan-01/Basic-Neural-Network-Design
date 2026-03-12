@@ -84,7 +84,7 @@ Python dependencies.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Diabetes-Prediction-Neural-Network.git
+git clone https://github.com/selvan-01/Basic-Neural-Network-Design.git
 ```
 
 Install dependencies:
