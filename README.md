@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail09.png" width="800">
+</p>
+
 # Diabetes Prediction using Neural Network
 
 This project implements a **Binary Classification Neural Network** using **Keras and TensorFlow** to predict whether a patient has diabetes based on medical attributes.
@@ -129,6 +133,12 @@ Model Accuracy: 78.50%
 - Deploy using Flask or Streamlit
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Basic-Neural-Network-Design.git)
 
 ## Author
 
